@@ -85,4 +85,20 @@ The project includes an interactive Power BI dashboard that visualizes:
 
 ---
 
-## 📁 Project Structure
+## 🚀 Conclusion
+
+This project demonstrates how customer segmentation using RFM analysis can help businesses:
+- Identify high-value customers
+- Detect at-risk customers early
+- Design targeted marketing strategies
+
+---
+
+## 📬 Feedback
+
+I’m actively improving my data analytics skills.  
+Feel free to share feedback or suggestions!
+
+## ✍️ Author
+
+  Bharat Lalwani
